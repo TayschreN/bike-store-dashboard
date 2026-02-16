@@ -2,7 +2,8 @@
 
 Dashboard interativo desenvolvido no Power BI para análise de **lucro, receita, comportamento de vendas ao longo do ano e perfil dos ciclistas**, com foco em identificar padrões de lucratividade e sazonalidade.
 
-### O painel permite visualizar métricas estratégicas e entender **quando a empresa está ganhando mais dinheiro**, além de analisar o perfil dos clientes.
+O painel permite visualizar métricas estratégicas e entender **quando a empresa está ganhando mais dinheiro**, além de analisar o perfil dos clientes.
+
 ---
 ![Dashboard](Dashboard.png)
 ---
@@ -24,7 +25,8 @@ Desenvolver um dashboard executivo para:
 -  **Lucro Total:** $7,0M  
 - **Receita Total:** $10,2M  
 - **Margem de Lucro:** 0,45  
-- **Total de Ciclistas:** 2M  
+- **Total de Ciclistas:** 2M
+  
 ---
 ## Análises Disponíveis:
 
@@ -70,6 +72,7 @@ Distribuição da receita:
 - 4º Trimestre – $2,6M  
 
 O 3º trimestre apresenta o maior desempenho.
+
 ---
 ### Demografia dos Ciclistas
 
@@ -84,8 +87,8 @@ A maior parte dos clientes é recorrente (registrada), indicando fidelização.
 O dashboard permite selecionar:
 
 - Ano (2021 ou 2022)
-
 Facilitando comparações e análises temporais.
+
 ---
 ## Principais Insights Estratégicos:
 
@@ -94,3 +97,10 @@ Facilitando comparações e análises temporais.
 - Horários específicos concentram maior rentabilidade.
 - Alta taxa de clientes registrados indica bom nível de retenção.
 ---
+
+## Aprendizado:
+
+Este projeto foi desenvolvido acompanhando a aula disponível neste vídeo: https://youtu.be/jdGJWloo-OU?si=8mGLjfFkz8M3N0G4.
+Ao longo do projeto, aprofundei meus conhecimentos em conceitos e técnicas importantes 
+Recomendo fortemente para quem deseja evoluir seus estudos em Data Analytics e Business Intelligence.
+
